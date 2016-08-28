@@ -3,4 +3,12 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <!-- Inspiração: cores tema da apresentação que fizemos-->
+    <color name="lightBlue">#45bee8</color>
+    <color name="darkBlue">#1181ae</color>
+    <color name="black">#000000</color>
+    <color name="white">#fff</color>
+    <color name="lightGray">#999999</color>
+    <color name="darkGray">#434343</color>
 </resources>
